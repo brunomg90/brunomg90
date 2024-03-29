@@ -9,7 +9,11 @@
 <a href= "https://www.facebook.com/thebr.mota/">
 <img width="30px" src= "https://cdn-icons-png.flaticon.com/256/124/124010.png" >
 </a>
-<h2>Cursando Análise e Desenvolvimento de Sistemas</h2>
+<h2> Systems Analysis and Development student, future DEV.</h2>
+🎓I'm currently learning: Development Web in Html5, Css, Javascript and Php, Python Programming Language Paradigms, Computer Architecture, Introduction to Information Security and Computational Thinking.
+
+👯 I'm looking to collaborate on: Participating in study groups or programming events, participate in online communities, resolver issues de "good first issue" ou "beginner-friendly", write tutorials or guides for beginners.
+
  
 
  
