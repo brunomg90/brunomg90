@@ -10,7 +10,7 @@
 <img width="30px" src= "https://cdn-icons-png.flaticon.com/256/124/124010.png" >
 </a>
 <h2> Systems Analysis and Development student, future DEV.</h2>
-🎓cursando Análise e Desenvolvimento de Sistemas (ADS) e buscando minha primeira oportunidade de estágio na área de tecnologia. 
+🎓Cursando Análise e Desenvolvimento de Sistemas (ADS) e buscando minha primeira oportunidade de estágio na área de tecnologia. 
 Com uma sólida experiência desde 2013 em atendimento ao cliente, vendas, consultoria e telecomunicações, desenvolvi habilidades valiosas e contribui de forma significativa para os resultados de grandes empresas.
 
 Durante minha trajetória profissional, sempre valorizei a comunicação eficaz, a compreensão de aspectos culturais, a integridade e a transparência nos processos. Essas qualidades têm sido fundamentais para minha evolução pessoal e profissional, permitindo-me aprender continuamente e adaptar-me a novos desafios.
