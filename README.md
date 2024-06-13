@@ -1,6 +1,6 @@
 <h1>Bruno Mota Gonçalves</h1>
 
- <a href= "https://www.linkedin.com/in/bruno-mota-gon%C3%A7alves-70aa462a9/">
+ <a href= "https://www.linkedin.com/in/devbrunomota/">
  <img width="30px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" >
  </a>
  <a href= "https://www.instagram.com/bhronu_/ ">
